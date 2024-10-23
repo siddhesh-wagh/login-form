@@ -7,10 +7,6 @@ Here is an image of the project:
 
 ![Project Screenshot](images/project-screenshot.png)
 
-Or you can specify the size:
-
-<img src="images/project-screenshot.png" alt="Project Screenshot" width="400"/>
-
 
 # ```markdown
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
