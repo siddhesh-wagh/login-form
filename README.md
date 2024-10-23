@@ -2,8 +2,7 @@
 A login page built using HTML and CSS that includes input fields for username and password, along with a styled submit button. Ideal for beginners learning web design basics.
 
 # My Project
-
-Here is an image of the project:
+Image of the project:
 
 ![Project Screenshot](images/project-screenshot.png)
 
