@@ -4,7 +4,8 @@ A login page built using HTML and CSS that includes input fields for username an
 # My Project
 Image of the project:
 
-![Project Screenshot](assests/login.png)(assests/login1.png)
+![Project Screenshot](assests/login.png)
+![](assests/login1.png)
 
 
 # ```markdown
