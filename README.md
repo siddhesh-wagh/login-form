@@ -36,11 +36,11 @@ Follow the steps below to set up and run your HTML and CSS files locally using V
 1. Open a terminal in your system (or use the terminal inside VS Code).
 2. Clone this repository using the following command:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/siddhesh-wagh/login-form.git
    ```
 3. After cloning, navigate to the repository folder:
    ```bash
-   cd your-repository
+   cd login-form
    ```
 
 ### Step 4: Open the Project Folder in VS Code
