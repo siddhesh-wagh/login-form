@@ -128,3 +128,14 @@ input[type="submit"]:hover {
 .signup_link a:hover {
   text-decoration: underline;
 }
+.pass a {
+  color: #007bff; /* Nice blue color */
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.pass a:hover {
+  color: #0056b3; /* Slightly darker on hover */
+  text-decoration: underline;
+}
