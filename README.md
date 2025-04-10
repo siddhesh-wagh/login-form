@@ -6,8 +6,9 @@ Image of the project:
 
 ![Project Screenshot](assests/login.png)
 ![](assests/login1.png)
-![](assests/login1.png)
-![](assests/login1.png)
+![](assests/signup.png)
+![](assests/signup1.png)
+![](assests/localstorage.png)
 
 
 # markdown
