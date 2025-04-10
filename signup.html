@@ -1,34 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Signup</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="center">
-    <h1>Signup</h1>
-    <form method="post">
-      <div class="txt_field">
-        <input type="text" required>
-        <label>Username</label>
-        <span></span>
-      </div>
-      <div class="txt_field">
-        <input type="email" required>
-        <label>Email</label>
-        <span></span>
-      </div>
-      <div class="txt_field">
-        <input type="password" required>
-        <label>Password</label>
-        <span></span>
-      </div>
-      <input type="submit" value="Signup">
-      <div class="signup_link">
-        Already a member? <a href="login.html">Login</a>
-      </div>
-    </form>
-  </div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Signup</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="center">
+      <h1>Signup</h1>
+      <form id="signupForm">
+        <div class="txt_field">
+          <input type="text" id="signupUsername" required />
+          <label>Username</label>
+          <span></span>
+        </div>
+        <div class="txt_field">
+          <input type="email" id="signupEmail" required />
+          <label>Email</label>
+          <span></span>
+        </div>
+        <div class="txt_field">
+          <input type="password" id="signupPassword" required />
+          <label>Password</label>
+          <span></span>
+        </div>
+        <input type="submit" value="Signup" />
+        <div class="signup_link">
+          Already a member? <a href="login.html">Login</a>
+        </div>
+      </form>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
