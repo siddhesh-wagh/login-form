@@ -36,7 +36,8 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       alert("Signup successful! Redirecting to login...");
-      window.location.href = "login.html";
+      window.location.href = "/";
+
     });
   }
 
